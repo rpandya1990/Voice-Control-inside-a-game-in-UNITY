@@ -1,0 +1,9 @@
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\VoiceRecognition.Form1.resources
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Voice Recognition.csproj.GenerateResource.Cache
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\raghav_2\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Voice Control.exe.config

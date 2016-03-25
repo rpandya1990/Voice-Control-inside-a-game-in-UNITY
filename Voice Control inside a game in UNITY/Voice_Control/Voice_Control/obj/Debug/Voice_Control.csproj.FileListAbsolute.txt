@@ -1,0 +1,10 @@
+C:\Users\raghav_2\Desktop\Voice_Control\WindowsFormsApplication2\bin\Debug\Voice_Control.exe.config
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\bin\Debug\Voice_Control.exe.config
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\bin\Debug\Voice_Control.exe
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\bin\Debug\Voice_Control.pdb
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Debug\Voice_Control.csprojResolveAssemblyReference.cache
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Debug\Voice_Control.Form1.resources
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Debug\Voice_Control.Properties.Resources.resources
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Debug\Voice_Control.csproj.GenerateResource.Cache
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Debug\Voice_Control.exe
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Debug\Voice_Control.pdb

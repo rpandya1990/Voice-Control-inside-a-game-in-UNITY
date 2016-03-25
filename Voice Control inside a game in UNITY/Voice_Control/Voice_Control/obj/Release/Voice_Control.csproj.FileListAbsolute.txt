@@ -1,0 +1,12 @@
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\bin\Release\Voice_Control.exe.config
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\bin\Release\Voice_Control.exe
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\bin\Release\Voice_Control.pdb
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Release\Voice_Control.Form1.resources
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Release\Voice_Control.Properties.Resources.resources
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Release\Voice_Control.csproj.GenerateResource.Cache
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Release\Voice_Control.exe
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Release\Voice_Control.pdb
+C:\Users\raghav_2\Desktop\Voice_Control\Voice_Control\obj\Release\Voice_Control.csprojResolveAssemblyReference.cache
+D:\Projects\Voice Control inside a game in UNITY\Voice_Control\Voice_Control\bin\Release\Voice_Control.exe.config
+D:\Projects\Voice Control inside a game in UNITY\Voice_Control\Voice_Control\obj\Release\Voice_Control.exe
+D:\Projects\Voice Control inside a game in UNITY\Voice_Control\Voice_Control\obj\Release\Voice_Control.pdb
